@@ -1,0 +1,19 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+.App {
+  height: 100%;
+}
+
+.divClass {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
